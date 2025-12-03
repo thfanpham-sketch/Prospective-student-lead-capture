@@ -1,11 +1,11 @@
 📌 Prospective Student Lead Capture – Business Analysis Objectives
-🎯 Purpose
+🎯 Purpose:
 Demonstrate the future-state process and requirements for capturing prospective student leads.
 
-📖 Case Study
+📖 Case Study:
 Prospective students browse course pages on the University’s website and want to express interest in studying. The Marketing team needs this information to include students in lead nurture campaigns (e.g., Open Day).
 
-❗ Problem Statement
+❗ Problem Statement:
 
 No online lead capture form exists; Marketing only learns about prospects at events (reactive process).
 Marketing cannot proactively nurture leads before events.
@@ -22,7 +22,7 @@ Capture opt-in status for marketing communications.
 Record this information in the University’s CRM (Salesforce).
 
 
-🛠 Activities Completed
+🛠 Activities Completed:
 
 
 Stakeholder Identification
