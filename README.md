@@ -14,4 +14,4 @@ No online form exists; Marketing cannot proactively nurture leads; Contact info 
 - Leads per course, opt-in rate, conversion funnel
 
 ## Tools
-Power BI, Excel, Draw.io, Word
+Visio, Excel, Draw.io, Word
